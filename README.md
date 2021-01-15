@@ -1,4 +1,4 @@
 # tictactoe
 
 
-<img src='https://imgur.com/H72hsSv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/H72hsSv.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
